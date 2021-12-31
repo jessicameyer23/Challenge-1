@@ -18,7 +18,8 @@ The specific purpose of this project was to analyze campaign outcomes in compari
 
 
 ### Analysis of Outcomes Based on Goals
-![image_name]
+![image_name](https://github.com/jessicameyer23/Challenge-1/blob/main/Annotation%202021-12-31%20123051.png)
+
 
 ### Challenges and Difficulties Encountered
 

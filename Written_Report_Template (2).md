@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-This project has many different data points and criteria that can be used to analyze campaign data and outcomes.  
+This project has many different data points and criteria that can be used to analyze campaign fundraising goals and outcomes.  
 
 ### Purpose
 The specific purpose of this project was to analyze campaign outcomes in comparison to launch date and funding goals.  For the purposes of this analysis, we are focused on the subcategory of plays only.  

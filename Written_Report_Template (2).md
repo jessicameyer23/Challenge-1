@@ -28,12 +28,12 @@ This picture is a graphic of the "Play Outcomes Based on Fundraising Goal", whic
 
 ## Results
 
-### Conclusions on Theatre Outcomes based on Launch Date:
+### Conclusions on Theatre Outcomes Based on Launch Date:
 1.  The number of successful theatres are were higher in the late spring and early summer months.  
 2.  The number of failed theatres did not change very significantly from month to month.  
 3.  There were very few canceled theatres.
 
-### Conclusions on Play Outcomes based on Goals:
+### Conclusions on Play Outcomes Based on Goals:
 1.  Overall, most smaller fundraising goals have a higher percentage of successful plays than failed plays.
 2.  Very large fundraising goals had a high failure percentage.
 

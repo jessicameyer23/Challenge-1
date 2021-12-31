@@ -9,7 +9,7 @@ The specific purpose of this project was to analyze campaign outcomes in compari
 ## Analysis and Challenges
 
 
-### Analysis of Outcomes Based on Launch Date
+### Analysis of Theatre Outcomes Based on Launch Date
 ![image_name](https://github.com/jessicameyer23/Challenge-1/blob/main/Annotation%202021-12-31%20123051.png)
 
 
@@ -18,6 +18,7 @@ The specific purpose of this project was to analyze campaign outcomes in compari
 
 
 ### Analysis of Outcomes Based on Goals
+![image_name]
 
 ### Challenges and Difficulties Encountered
 

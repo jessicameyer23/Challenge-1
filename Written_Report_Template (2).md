@@ -4,7 +4,7 @@
 This project has many different data points and criteria that can be used to analyze campaign fundraising goals and outcomes.  
 
 ### Purpose
-The specific purpose of this project was to analyze campaign outcomes in comparison to launch date and funding goals.  For the purposes of this analysis, we are focused on the subcategory of plays only.  
+The specific purpose of this project was to analyze campaign outcomes in comparison to launch date and funding goals.  
 
 ## Analysis and Challenges
 I performed my analysis by using several different methods and ways to analyze information in excel, including pivot tables, excel formulas, and charts.  One of the challenges of the data is that there were so many different categories and subcategories to choose from, so it helped to analyze the data by specific categories.

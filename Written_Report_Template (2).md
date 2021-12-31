@@ -9,7 +9,7 @@ The specific purpose of this project was to analyze campaign outcomes in compari
 ## Analysis and Challenges
 I performed my analysis by using several different methods and ways to analyze information in excel, including pivot tables, excel formulas, and charts.  One of the challenges of the data is that there are so many different categories and subcategories to choose from, so it helped to analyze the data by specific categories.
 
-#### One challenge I had was with my conditional ifs formula. I had some difficulties getting it to work, but upon trial and error, was able to get the formula correct.  One common mistake of mine is to include a space in between parts of the formula.
+#### One challenge I had was with my count ifs formula. I had some difficulties getting it to work, but upon trial and error, was able to get the formula correct.  One common mistake of mine is to include a space in between parts of the formula.
 #### One additional challenge I encountered was with my second graph. Upon trial and error, I found I had used the stacked line graph instead of the standard line graph.
 ### 
 

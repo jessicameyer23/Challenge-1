@@ -38,7 +38,7 @@ This picture is a graphic of the "Play Outcomes Based on Fundraising Goal", whic
 2.  Very large fundraising goals had a high failure percentage.
 
 ### Limitations of Data Set:
-There could be many factors contributing to the success or failure rate of the campaigns.  Some of these factors could include differences by country, months, types of categories, etc. While we do have all of this information, our specific analysis did not compare different variables.  For instance, just compare theatres and plays of a certain pledg size.  There could also be difference in locations across the country.  Perhaps more successful plays are on the east coast compared to the west coast.  
+There could be many factors contributing to the success or failure rate of the campaigns.  Some of these factors could include differences by country, months, types of categories, etc. While we do have all of this information, our specific analysis did not compare different variables.  For instance, we could compare only theatres and plays of a certain pledge size.  There could also be differences due to geographical locations across each country, the United State for example.  Perhaps more successful plays are on the east coast compared to the west coast.  
 
 ### Additional tables and/or graphs that we could create:
 1.  We could add in additional geographical information including state.

@@ -10,6 +10,9 @@ The specific purpose of this project was to analyze campaign outcomes in compari
 
 
 ### Analysis of Outcomes Based on Launch Date
+!https://github.com/jessicameyer23/Challenge-1/blob/main/Annotation%202021-12-31%20123051.png)
+
+
 
 ### Analysis of Outcomes Based on Goals
 

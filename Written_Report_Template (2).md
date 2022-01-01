@@ -15,7 +15,7 @@ I performed my analysis by using several different methods and ways to analyze i
 
 ### Analysis of Theatre Outcomes Based on Launch Date
 This picture is a graphic of the "Theatre Outcomes Based on Launch Date", which will be referenced in my results paragraph below.
-![image_name](https://github.com/jessicameyer23/Challenge-1/blob/main/Theater_Outcomes_vs_Launch.png)
+![image_name](https://github.com/jessicameyer23/Challenge-1/blob/main/Resources/Outcomes_vs_Goals.png)
 
 
 
@@ -25,7 +25,7 @@ This picture is a graphic of the "Theatre Outcomes Based on Launch Date", which 
 
 ### Analysis of Play Outcomes Based on Goal
 This picture is a graphic of the "Play Outcomes Based on Fundraising Goal", which will be referenced in my results paragraph below.
-![image_name](https://github.com/jessicameyer23/Challenge-1/blob/main/Outcomes_vs_Goals.png)
+![image_name](
 
 ## Results
 
